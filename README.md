@@ -7,3 +7,4 @@
   - 10이상,10이하에서 카운터 버튼 비활성화
 
 # 시연 영상
+https://tlswodnr427.tistory.com/10
